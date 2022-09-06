@@ -37,7 +37,7 @@ https://www.adamlookout.com/
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
-Amsterdam lookout
+Homepagina
 <img src="readme-images\Lookout1.png" width="375px">
 <img src="readme-images\Lookout2.png" width="375px">
 <img src="readme-images\Lookout3.png" width="375px">
@@ -46,8 +46,8 @@ Amsterdam lookout
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
-hier de naam van de pagina  
- <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+FAQ  
+ <img src="readme-images/faq.png" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
