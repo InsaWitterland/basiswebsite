@@ -14,15 +14,15 @@ Nb. Door _open_ toe te voegen aan een _details_ element kun je deze standaard op
 
 ### Auteur:
 
-Insa Witterland (vervangen door jouw naam)
+Insa Witterland
 
 #### Je startniveau:
 
-Blauw (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
 
-Responsive (kies uit responsive óf surface plane)
+Responsive
 
 </details>
 
