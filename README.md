@@ -38,7 +38,11 @@ https://www.adamlookout.com/
 #### Screenshot(s) van de eerste pagina (small screen):
 
 Amsterdam lookout
-<img src="readme-images\Lookout1.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images\Lookout1.png" width="375px">
+<img src="readme-images\Lookout2.png" width="375px">
+<img src="readme-images\Lookout3.png" width="375px">
+<img src="readme-images\Lookout4.png" width="375px">
+<img src="readme-images\Lookout5.png" width="375px">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
